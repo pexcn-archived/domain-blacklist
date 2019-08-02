@@ -12,6 +12,10 @@ ce.cn
 # baidu
 baidu.com
 
+# 360
+360.com
+360.cn
+
 # kuaishou
 kuaishou.com
 kuaishou.cn
