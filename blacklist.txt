@@ -1,0 +1,30 @@
+# communist party
+people.com.cn
+xinhuanet.com
+cctv.com
+chinadaily.com.cn
+qstheory.cn
+jjjcb.cn
+gmw.cn
+ce.cn
+81.cn
+
+# baidu
+baidu.com
+
+# kuaishou
+kuaishou.com
+kuaishou.cn
+
+# toutiao
+toutiao.com
+
+# douyin
+douyin.com
+tiktok.com
+
+# sohu
+sohu.com
+
+# momo
+immomo.com
