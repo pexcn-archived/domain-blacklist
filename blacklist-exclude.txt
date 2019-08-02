@@ -1,0 +1,19 @@
+# baidu pan
+pan.baidu.com
+pcs.baidu.com
+pcsdata.baidu.com
+
+# baidu zhidao
+zhidao.baidu.com
+
+# baidu tieba
+tieba.baidu.com
+
+# baidu login
+passport.baidu.com
+
+# baidu misc
+imgsa.baidu.com
+imgsrc.baidu.com
+himg.baidu.com
+gsp0.baidu.com
