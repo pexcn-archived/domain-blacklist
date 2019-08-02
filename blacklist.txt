@@ -30,6 +30,9 @@ tiktok.com
 # iqiyi
 iqiyi.com
 
+# baike
+baike.com
+
 # sohu
 sohu.com
 
