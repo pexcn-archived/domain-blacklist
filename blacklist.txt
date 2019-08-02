@@ -8,6 +8,7 @@ jjjcb.cn
 gmw.cn
 ce.cn
 81.cn
+xuexi.cn
 
 # baidu
 baidu.com
