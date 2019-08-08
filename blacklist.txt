@@ -24,6 +24,7 @@ kuaishou.cn
 
 # bytedance
 bytedance.com
+bytedance.net
 snssdk.com
 byteimg.com
 bytedns.net
