@@ -40,6 +40,9 @@ toutiaowap.com
 douyin.com
 tiktok.com
 
+# xigua video
+ixigua.com
+
 # iqiyi
 iqiyi.com
 
