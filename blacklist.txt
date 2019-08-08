@@ -9,6 +9,7 @@ gmw.cn
 ce.cn
 81.cn
 xuexi.cn
+haiwainet.cn
 
 # baidu
 baidu.com
@@ -21,8 +22,18 @@ baidu.com
 kuaishou.com
 kuaishou.cn
 
+# bytedance
+bytedance.com
+snssdk.com
+byteimg.com
+bytedns.net
+bytedns2.com
+bytedanceapi.com
+
 # toutiao
 toutiao.com
+toutiaohao.com
+toutiaowap.com
 
 # douyin
 douyin.com
