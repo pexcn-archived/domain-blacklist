@@ -26,10 +26,13 @@ kuaishou.cn
 bytedance.com
 bytedance.net
 snssdk.com
+pstatp.com
 byteimg.com
 bytedns.net
 bytedns2.com
 bytedanceapi.com
+bytecdn.cn
+zjcdn.com
 
 # toutiao
 toutiao.com
@@ -39,6 +42,7 @@ toutiaowap.com
 # douyin
 douyin.com
 tiktok.com
+amemv.com
 
 # xigua video
 ixigua.com
