@@ -61,6 +61,3 @@ sohu.com
 
 # momo
 immomo.com
-
-# hao123
-hao123.com
